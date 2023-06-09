@@ -1,3 +1,7 @@
+前后端分离项目
+
+后端地址 https://github.com/PinelliaLogic/pinellia-oa-server
+
 # oa-client
 
 ## Project setup
